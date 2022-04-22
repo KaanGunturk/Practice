@@ -13,6 +13,7 @@ public class Q33_CountingMinutes {
      * 	Sample:-
      *  		Input = "12:30pm-12:00am"	Output = 690
      *  		Input = "1:23am-1:08am"		Output = 1425
+     * deneme
      */
 
     public static void main(String[] args) {
